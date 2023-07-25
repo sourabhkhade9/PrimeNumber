@@ -12,6 +12,8 @@ public class PrimeNumber {
         isPrime = false;
         break;
       }    
+
+       System.out.println("file is changed");
 	}  
 	
 	if(isPrime)
